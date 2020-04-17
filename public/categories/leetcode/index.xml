@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>leetcode on Rishabh Srivastava</title>
+    <link>/categories/leetcode/</link>
+    <description>Recent content in leetcode on Rishabh Srivastava</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/leetcode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aranging Coins</title>
+      <link>/blog/arranging-coin/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/arranging-coin/</guid>
+      <description>You have a total of n coins that you want to form in a staircase shape, where every k-th row must have exactly k coins.
+Given n, find the total number of full staircase rows that can be formed.
+n is a non-negative integer and fits within the range of a 32-bit signed integer.
+Example 1:
+n = 5
+The coins can form the following rows: ¤ ¤ ¤ ¤ ¤</description>
+    </item>
+    
+    <item>
+      <title>Assign Cookies</title>
+      <link>/blog/455.-assign-cookies/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/455.-assign-cookies/</guid>
+      <description>Assume you are an awesome parent and want to give your children some cookies. But, you should give each child at most one cookie. Each child i has a greed factor gi, which is the minimum size of a cookie that the child will be content with; and each cookie j has a size sj. If sj &amp;gt;= gi, we can assign the cookie j to the child i, and the child i will be content.</description>
+    </item>
+    
+  </channel>
+</rss>
